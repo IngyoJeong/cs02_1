@@ -1,0 +1,8 @@
+C:\Users\konyang\source\repos\cs02_1\023_RectangleClass2\bin\Debug\023_RectangleClass2.exe.config
+C:\Users\konyang\source\repos\cs02_1\023_RectangleClass2\bin\Debug\023_RectangleClass2.exe
+C:\Users\konyang\source\repos\cs02_1\023_RectangleClass2\bin\Debug\023_RectangleClass2.pdb
+C:\Users\konyang\source\repos\cs02_1\023_RectangleClass2\obj\Debug\023_RectangleClass2.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\cs02_1\023_RectangleClass2\obj\Debug\023_RectangleClass2.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\cs02_1\023_RectangleClass2\obj\Debug\023_RectangleClass2.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\cs02_1\023_RectangleClass2\obj\Debug\023_RectangleClass2.exe
+C:\Users\konyang\source\repos\cs02_1\023_RectangleClass2\obj\Debug\023_RectangleClass2.pdb

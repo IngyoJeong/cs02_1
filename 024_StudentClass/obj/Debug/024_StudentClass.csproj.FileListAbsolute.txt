@@ -1,0 +1,8 @@
+C:\Users\konyang\source\repos\cs02_1\024_StudentClass\bin\Debug\024_StudentClass.exe.config
+C:\Users\konyang\source\repos\cs02_1\024_StudentClass\bin\Debug\024_StudentClass.exe
+C:\Users\konyang\source\repos\cs02_1\024_StudentClass\bin\Debug\024_StudentClass.pdb
+C:\Users\konyang\source\repos\cs02_1\024_StudentClass\obj\Debug\024_StudentClass.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\cs02_1\024_StudentClass\obj\Debug\024_StudentClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\cs02_1\024_StudentClass\obj\Debug\024_StudentClass.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\cs02_1\024_StudentClass\obj\Debug\024_StudentClass.exe
+C:\Users\konyang\source\repos\cs02_1\024_StudentClass\obj\Debug\024_StudentClass.pdb

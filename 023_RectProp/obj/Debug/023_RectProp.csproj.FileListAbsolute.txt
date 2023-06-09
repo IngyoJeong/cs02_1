@@ -1,0 +1,8 @@
+C:\Users\konyang\source\repos\cs02_1\023_RectProp\bin\Debug\023_RectProp.exe.config
+C:\Users\konyang\source\repos\cs02_1\023_RectProp\bin\Debug\023_RectProp.exe
+C:\Users\konyang\source\repos\cs02_1\023_RectProp\bin\Debug\023_RectProp.pdb
+C:\Users\konyang\source\repos\cs02_1\023_RectProp\obj\Debug\023_RectProp.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\cs02_1\023_RectProp\obj\Debug\023_RectProp.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\cs02_1\023_RectProp\obj\Debug\023_RectProp.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\cs02_1\023_RectProp\obj\Debug\023_RectProp.exe
+C:\Users\konyang\source\repos\cs02_1\023_RectProp\obj\Debug\023_RectProp.pdb
