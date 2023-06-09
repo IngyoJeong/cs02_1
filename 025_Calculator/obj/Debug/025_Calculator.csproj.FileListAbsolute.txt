@@ -1,0 +1,8 @@
+C:\Users\konyang\source\repos\cs02_1\025_Calculator\bin\Debug\025_Calculator.exe.config
+C:\Users\konyang\source\repos\cs02_1\025_Calculator\bin\Debug\025_Calculator.exe
+C:\Users\konyang\source\repos\cs02_1\025_Calculator\bin\Debug\025_Calculator.pdb
+C:\Users\konyang\source\repos\cs02_1\025_Calculator\obj\Debug\025_Calculator.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\cs02_1\025_Calculator\obj\Debug\025_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\cs02_1\025_Calculator\obj\Debug\025_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\cs02_1\025_Calculator\obj\Debug\025_Calculator.exe
+C:\Users\konyang\source\repos\cs02_1\025_Calculator\obj\Debug\025_Calculator.pdb
